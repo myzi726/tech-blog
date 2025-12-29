@@ -12,7 +12,7 @@ export default function Home() {
       <Profile
         name="명지"
         bio="프론트엔드를 공부하고 있습니다."
-        image="/damgom.jpeg"
+        image="/img/joodengchi.png"
         links={{
           github: "https://github.com/myzi726",
           email: "mzi726@naver.com",
